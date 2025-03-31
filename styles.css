@@ -29,6 +29,13 @@ body {
     height: 120px;
 }
 
+.apps-icon span{
+    position: relative;
+    top:12px;
+    right: 195px;
+    font-size: 30px;
+}
+
 .header {
     background: linear-gradient(135deg, #0d6b10 10%, #0f9b0f 50%, #0d6b10 90%);
     height: 200px;
